@@ -10,7 +10,7 @@ from gtts import gTTS
 
 # ============ CONFIG ============
 BOT_TOKEN = "7905131506:AAH8kbNyDNq-gD1lOFHbteZlJMZA6bg8cPM"  # ✅ your bot token here
-OPENROUTER_API_KEY = "api key from open router"  # ✅ your API key here
+OPENROUTER_API_KEY = "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"  # ✅ your API key here
 ADMIN_ID = 7401896933  # ✅ your admin ID here
 CHANNEL_USERNAME = "-1002316557460"  # ✅ your channel username here
 
